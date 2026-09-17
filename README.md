@@ -1,2 +1,0 @@
-# VPC
-Visión por Computadora
